@@ -1,4 +1,6 @@
-coventrypokemonleague
-=====================
+Coventry Pokemon League
+===
 
-Main Website for Coventry Pokémon League
+Website and Theme for Coventry Pokemon League.
+
+Theme will be integrated to Odoo v8. Python Based.
